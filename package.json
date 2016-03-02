@@ -1,0 +1,21 @@
+{
+  "name": "radix-converter",
+  "version": "0.1.0",
+  "description": "This project converts an arbitrary radix to bin and vice versa.",
+  "author": "Akihiro HARAI <akihiro.harai@tarosky.co.jp>",
+  "contributors": [],
+  "scripts": {
+    "test": "node spec/run.js"
+  },
+  "main": "radix-converter.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tarosky/radix-converter"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-reporters": "^2.1.1"
+  },
+  "license": "MIT"
+}
